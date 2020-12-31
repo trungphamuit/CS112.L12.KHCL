@@ -5,3 +5,8 @@
   |     Phạm Tiến Trung      |      18521558        |   Trưởng nhóm |
   |     Hoàng Sơn Thọ        |      18521453        |   Thành viên  |
   |     Huỳnh Trọng Khoa     |      18520918        |   Thành viên  |
+
+---
+# Practice
+
+# Seminar cuối kỳ
