@@ -8,5 +8,8 @@
 
 ---
 # Practice
+- [ ] Week 1:
+  - [ ] Notebook
+  - [ ] Source Code
 
 # Seminar cuối kỳ
