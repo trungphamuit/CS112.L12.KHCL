@@ -8,34 +8,37 @@
 
 ---
 # Practice
-- [ ] **Week 1**:
+- [ ] **Week 1**: BOT
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 2**:
+- [ ] **Week 2**: Tảo Biển
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 3**:
+- [ ] **Week 3**: H-Index
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 4**:
+- [ ] **Week 4**: Đổi mới
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 5**:
+- [ ] **Week 5**: Khoá số
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 6**:
+- [ ] **Week 6**: Mức độ giống nhau
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 7**:
+- [ ] **Week 7**: Bộ test Địa Lan
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 8**:
+- [ ] **Week 8 - 1**: Phân số
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 9**:
+- [ ] **Week 8 - 2**: Sâu con tương đương
+  - [ ] Notebook
+  - [ ] Source Code  
+- [ ] **Week 9**: Số nguyên mới
   - [ ] Notebook
   - [ ] Source Code
-- [ ] **Week 10**:
+- [ ] **Week 10**: Đèn Led
   - [ ] Notebook
   - [ ] Source Code
 
