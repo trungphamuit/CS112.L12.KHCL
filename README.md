@@ -42,6 +42,6 @@
   - [x] [Notebook](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/Practice/Week%2010/Den_Led.ipynb)
   - [x] [Source Code](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/Practice/Week%2010/Week10.py)
 
-# Seminar cuối kỳ
+# Seminar cuối kỳ: Luyện tập phân tích thiết kế thuật toán
 - [x] Bài báo cáo (ppt)
 - [x] Quiz ôn tập (Socrative)
