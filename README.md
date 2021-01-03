@@ -43,5 +43,8 @@
   - [x] [Source Code](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/Practice/Week%2010/Week10.py)
 
 # Seminar cuối kỳ: Luyện tập phân tích thiết kế thuật toán
-- [x] Bài báo cáo (ppt)
-- [x] Quiz ôn tập (Socrative)
+- [x] Nội dung cuối kỳ
+  - [x] [Slide trình chiếu](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/SlideBaoCao/CS112_SEMINAR.pptx)
+  - [x] [Notebook Problem 1](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/SlideBaoCao/Problem_1_solving.ipynb)
+  - [ ] Notebook Problem 2
+- [x] [Quiz ôn tập (Socrative)](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/Quiz/Q%26A.ipynb)
