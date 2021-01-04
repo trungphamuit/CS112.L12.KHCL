@@ -46,5 +46,5 @@
 - [x] Nội dung cuối kỳ
   - [x] [Slide trình chiếu](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/SlideBaoCao/CS112_SEMINAR.pptx)
   - [x] [Notebook Problem 1](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/SlideBaoCao/Problem_1_solving.ipynb)
-  - [ ] Notebook Problem 2
+  - [x] [Notebook Problem 2](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/SlideBaoCao/Problem_2_solving.ipynb)
 - [x] [Quiz ôn tập (Socrative)](https://github.com/trungphamuit/CS112.L12.KHCL/blob/master/Quiz/Q%26A.ipynb)
